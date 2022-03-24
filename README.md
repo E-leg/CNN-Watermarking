@@ -3,6 +3,8 @@ Convolutional Neural Network-Based Digital Image Watermarking paper implementati
 
 ## Network model
 
+Based on this paper:
+
     Lee, Jae-Eun & Seo, Young-Ho & Kim, Dong-Wook. (2020).
     Convolutional Neural Network-Based Digital Image Watermarking Adaptive to the Resolution of Image and Watermark. 
     Applied Sciences. 10. 6854. 10.3390/app10196854. 
