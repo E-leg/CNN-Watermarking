@@ -9,7 +9,10 @@ Based on this paper:
     Convolutional Neural Network-Based Digital Image Watermarking Adaptive to the Resolution of Image and Watermark. 
     Applied Sciences. 10. 6854. 10.3390/app10196854. 
 
-## Dataset
+## Datasets
+
+- Data should be preprocessed into 128x128 grayscale images.
+- The *Retrieve Data* part of the notebook need to be completed.
 
 ### Training set
 
